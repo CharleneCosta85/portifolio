@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,604;1,604&display=swap');
 
 :root {
-  --cor-primaria: #FFD700;   
+  --cor-primaria: #360592;   
   --cor-secundaria: #dbe1e1; 
   --cor-terciaria: #FEF9E1;  
   --cor-hover: #2B2A4C;      
@@ -17,7 +17,7 @@ body {
 box-sizing: border-box;
 background-color: var(--cor-primaria);
 color: var(--cor-secundaria);
-background-image: url('./assets/milky-way-fundo.jpg');
+background-image: url('assets/milky-way-fundo.jpg');
 flex-direction: column;
 background-size: cover;
 background-repeat: no-repeat;

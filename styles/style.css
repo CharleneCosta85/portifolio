@@ -15,7 +15,7 @@
 }
 body {
 box-sizing: border-box;
-background-color: var(--cor-primaria);
+background-color: transparent;
 color: var(--cor-secundaria);
 background-image: url('assets/milky-way-fundo.jpg');
 flex-direction: column;
